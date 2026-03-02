@@ -1,6 +1,7 @@
 {
   "name": "sveltekit-adapters",
   "private": true,
+  "packageManager": "pnpm@10.30.3",
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
