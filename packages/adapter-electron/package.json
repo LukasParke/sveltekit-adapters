@@ -41,7 +41,7 @@
 		"@types/set-cookie-parser": "^2.4.0",
 		"@vitest/coverage-v8": "^1.0.0",
 		"typescript": "^5.0.0",
-		"vitest": "^1.0.0"
+		"vitest": "^4.1.0"
 	},
 	"dependencies": {
 		"@rollup/plugin-commonjs": "^28.0.6",
