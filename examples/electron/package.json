@@ -32,7 +32,7 @@
 		"concurrently": "^9.2.0",
 		"cross-env": "^7.0.3",
 		"dotenv": "^17.0.1",
-		"electron": "^39.8.5",
+		"electron": "^39.8.10",
 		"electron-builder": "^26.0.12",
 		"electron-is-dev": "^3.0.1",
 		"electron-log": "^5.4.1",
